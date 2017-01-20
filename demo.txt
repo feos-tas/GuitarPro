@@ -1,0 +1,14 @@
+what is an ending?
+what are diffrentiating factors in a movie?
+
+creates new game, adds new elements to existing game, creates office application, adds networking support, plays custom audio/video
+
+skipping levels/areas, skipping to game end sequence, creating new games to play, editing the existing game, adding new features to existing game, displaying a game-related cut-scene, running unrelated audio/video, creating office applications (calculator, notepad)
+
+http://tasvideos.org/MovieClassGuidelines.html
+http://tasvideos.org/forum/viewtopic.php?p=373757#373757
+http://tasvideos.org/forum/viewtopic.php?p=373769#373769
+http://tasvideos.org/forum/viewtopic.php?t=16718
+http://tasvideos.org/Nach/RFCTierTechnicalShowcase.html
+
+http://www.pouet.net/prodlist.php?order=thumbup
